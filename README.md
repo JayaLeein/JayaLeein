@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 I am currently a student in computer programming at Algonquin College who has found an interest in computer technology and is eager to learn more about it.
 
 #### Skills
-Computer Languages: Java, SQL, PHP, JavaScript, HTML/CSS
-Computer Operating Systems: Windows 11, Mac OS, Linux
-Database Management Systems: Microsoft Access, MySQL, Microsoft SQL server
-Web development: CSS, HTML, JavaScript, PHP, XML
-Software Tools: Eclipse, MySQL Workbench, SQL Server Management Studio 2014, VMWare Workstation, XAMPP, Microsoft Office (Word, Excel, Outlook)
+Computer Languages: Java, SQL, PHP, JavaScript, HTML/CSS  
+Computer Operating Systems: Windows 11, Mac OS, Linux  
+Database Management Systems: Microsoft Access, MySQL, Microsoft SQL server  
+Web development: CSS, HTML, JavaScript, PHP, XML  
+Software Tools: Eclipse, MySQL Workbench, SQL Server Management Studio 2014, VMWare Workstation, XAMPP, Microsoft Office (Word, Excel, Outlook)  
