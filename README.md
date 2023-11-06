@@ -1,4 +1,4 @@
-### Hi 👋 I'm Jaya
+### Hi 👋 I'm Jaya (JingYi)
 
 <!--
 **JayaLeein/JayaLeein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
