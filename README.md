@@ -25,4 +25,5 @@ Web development: CSS, HTML, JavaScript, PHP, XML
 Software Tools: Eclipse, MySQL Workbench, SQL Server Management Studio 2014, VMWare Workstation, XAMPP, Microsoft Office (Word, Excel, Outlook)  
 
 Let's talk if you have any ideas!
-jayalee140504@gmail.com
+
+Email: jayalee140504@gmail.com
