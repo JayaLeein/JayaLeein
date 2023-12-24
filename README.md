@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A passionate full-stack developer is currently studying at Algonquin College. 🔥🔥
+🔥🔥 A passionate full-stack developer is currently studying at Algonquin College.
 
 ## Skills
 <img src="https://github.com/JayaLeein/JayaLeein/assets/56601790/731d2b7a-2f06-4203-9265-6574d99b9f29" height="80" />&nbsp;&nbsp;
