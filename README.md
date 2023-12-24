@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently a student in computer programming at Algonquin College who has found an interest in computer technology and is eager to learn more about it.
+A passionate full-stack developer
 
 ## Skills
 <img src="https://github.com/JayaLeein/JayaLeein/assets/56601790/731d2b7a-2f06-4203-9265-6574d99b9f29" height="125" />
