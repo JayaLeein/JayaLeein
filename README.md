@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 ## Status
 <div style="display: flex; justify-content: space-between;">
   <div style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=JayaLeein&show_icons=false" width="450" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=JayaLeein&show_icons=false"  alt="GitHub Stats">
   </div>
 
   <div style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayaLeein&layout=compact&show_icons=false" width="450" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayaLeein&layout=compact&show_icons=false"  alt="Top Languages">
   </div>
 </div>
 
