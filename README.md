@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 <img src="https://github.com/JayaLeein/JayaLeein/assets/56601790/cef6f173-f0fd-4eea-a067-4de2bfb433cf" height="50" />
 </br>
 </br>
-<img src="https://github.com/JayaLeein/JayaLeein/assets/56601790/df4cae29-eda0-4d31-9520-897d0b693982" height="50" />
-<img src="https://github.com/JayaLeein/JayaLeein/assets/56601790/84c53cc3-aac3-463f-851a-969d8a36b7e1" height="50" />
-<img src="https://github.com/JayaLeein/JayaLeein/assets/56601790/e93b81a9-f7bf-4318-bb65-6724600bb811" height="50" />
+<img src="https://github.com/JayaLeein/JayaLeein/assets/56601790/df4cae29-eda0-4d31-9520-897d0b693982" height="40" />
+<img src="https://github.com/JayaLeein/JayaLeein/assets/56601790/84c53cc3-aac3-463f-851a-969d8a36b7e1" height="40" />
+<img src="https://github.com/JayaLeein/JayaLeein/assets/56601790/e93b81a9-f7bf-4318-bb65-6724600bb811" height="40" />
 
 ## Status
 <div style="display: flex; justify-content: space-between;">
