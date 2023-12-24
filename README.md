@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 
 ## Skills
 <img src="https://github.com/JayaLeein/JayaLeein/assets/56601790/731d2b7a-2f06-4203-9265-6574d99b9f29" height="50" />&nbsp;&nbsp;
-<img src="https://github.com/JayaLeein/JayaLeein/assets/56601790/3740fe6e-746f-4f2e-a84e-8490020ccd6c" height="60" />&nbsp;&nbsp;
+<img src="https://github.com/JayaLeein/JayaLeein/assets/56601790/3838c6e5-0caf-4677-b4a7-37f2932c10fd" height="50" />&nbsp;&nbsp;
 <img src="https://github.com/JayaLeein/JayaLeein/assets/56601790/bafa1486-b38e-4fad-b472-23f1deb1028f" height="50" />&nbsp;&nbsp;
 <img src="https://github.com/JayaLeein/JayaLeein/assets/56601790/64c0160d-f5d9-48c6-a245-a88626f198d8" height="50" />&nbsp;&nbsp;
 <img src="https://github.com/JayaLeein/JayaLeein/assets/56601790/30a48ec7-3dec-451b-a864-facce0bb3fd0" height="50" />&nbsp;&nbsp;
 <img src="https://github.com/JayaLeein/JayaLeein/assets/56601790/9c3d3906-334f-4855-ab82-ae311f5c89e3" height="50" />&nbsp;
-<img src="https://github.com/JayaLeein/JayaLeein/assets/56601790/5fc4713d-d9cb-4bbb-800a-0b77285ab036" height="60" />
-<img src="https://github.com/JayaLeein/JayaLeein/assets/56601790/74d5cb8c-4366-4ff1-8d20-f81a376b5743" height="50" />&nbsp;&nbsp;
+<img src="https://github.com/JayaLeein/JayaLeein/assets/56601790/c2d2e667-81bc-45ed-8fb5-84463066b84a" height="50" />
+<img src="https://github.com/JayaLeein/JayaLeein/assets/56601790/74d5cb8c-4366-4ff1-8d20-f81a376b5743" height="50" />&nbsp;
 <img src="https://github.com/JayaLeein/JayaLeein/assets/56601790/cef6f173-f0fd-4eea-a067-4de2bfb433cf" height="50" />
 
 ## Status
