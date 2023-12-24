@@ -36,7 +36,6 @@ A passionate full-stack developer is currently studying at Algonquin College.
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayaLeein&layout=compact&show_icons=false" width="450" alt="Top Languages">
   </div>
 </div>
-</br>
 
 ## Let's talk
 
