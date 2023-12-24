@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 <img src="https://github.com/JayaLeein/JayaLeein/assets/56601790/30a48ec7-3dec-451b-a864-facce0bb3fd0" height="80" />&nbsp;&nbsp;
 <img src="https://github.com/JayaLeein/JayaLeein/assets/56601790/9c3d3906-334f-4855-ab82-ae311f5c89e3" height="80" />&nbsp;
 <img src="https://github.com/JayaLeein/JayaLeein/assets/56601790/bb843dae-6c0d-4a87-a88c-cd479530ffed" height="90" />
+<img src="https://github.com/JayaLeein/JayaLeein/assets/56601790/74d5cb8c-4366-4ff1-8d20-f81a376b5743" height="80" />
+<img src="https://github.com/JayaLeein/JayaLeein/assets/56601790/cef6f173-f0fd-4eea-a067-4de2bfb433cf" height="80" />
 
 ## Status
 <div style="display: flex; justify-content: space-between;">
