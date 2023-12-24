@@ -1,4 +1,4 @@
-# Hollow!&nbsp;&nbsp; I'm Jaya&nbsp;&nbsp; 🙌🏻
+# Hollow&nbsp;!&nbsp;&nbsp; I'm Jaya&nbsp;&nbsp; 🙌🏻
 
 <!--
 **JayaLeein/JayaLeein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
