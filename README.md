@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔥🔥 A passionate full-stack developer is currently studying at Algonquin College.
+🔥🔥 A passionate full-stack developer is currently studying at Algonquin College
+🥋🥋 9+ years solid background in branding
+✨✨ Love life, people and aesthetics
 
 ## Skills
 </br>
