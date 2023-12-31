@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔥🔥 &nbsp;A passionate full-stack developer is currently studying at Algonquin College.
 - 🥋🥋 &nbsp;9+ years solid background in branding.
 - ✨✨ &nbsp;Love life, people and aesthetics.
-- &nbsp;👀 &nbsp;Currently seeking a co-op opportunity in the field of programming from May to Dec 2024 (8 months for 2 term)
+- &nbsp;&nbsp;👀 &nbsp;Currently seeking a co-op opportunity in the field of programming from May to Dec 2024 (8 months for 2 term)
 
 ## Skills
 </br>
