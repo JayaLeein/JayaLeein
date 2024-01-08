@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/JayaLeein/JayaLeein/assets/56601790/30a48ec7-3dec-451b-a864-facce0bb3fd0" height="50" />&nbsp;&nbsp;
 <img src="https://github.com/JayaLeein/JayaLeein/assets/56601790/9c3d3906-334f-4855-ab82-ae311f5c89e3" height="50" />&nbsp;
 <img src="https://github.com/JayaLeein/JayaLeein/assets/56601790/c2d2e667-81bc-45ed-8fb5-84463066b84a" height="50" />
-<img src="https://github.com/JayaLeein/JayaLeein/assets/56601790/74d5cb8c-4366-4ff1-8d20-f81a376b5743" height="50" />&nbsp;
+<!--<img src="https://github.com/JayaLeein/JayaLeein/assets/56601790/74d5cb8c-4366-4ff1-8d20-f81a376b5743" height="50" />&nbsp;-->
 <img src="https://github.com/JayaLeein/JayaLeein/assets/56601790/cef6f173-f0fd-4eea-a067-4de2bfb433cf" height="50" />
 <img src="https://github.com/JayaLeein/JayaLeein/assets/56601790/df3b8247-b778-454d-90e0-a93fb27aaaf1" height="50" />
 </br>
