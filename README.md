@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔥🔥 &nbsp;A passionate full-stack developer is currently studying at Algonquin College.
+- 🔥🔥 &nbsp;A passionate freelance full-stack developer is currently studying at Algonquin College.
 - 🥋🥋 &nbsp;9+ years solid background in branding.
 - ✨✨ &nbsp;Love life, people and aesthetics.
 - &nbsp;&nbsp;👀 &nbsp;&nbsp;Currently seeking a co-op opportunity in the field of programming from May to Dec 2024 (8 months for 2 terms).
