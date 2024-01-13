@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 🥋🥋 &nbsp;9+ years solid background in branding.
 - ✨✨ &nbsp;Love life, people and aesthetics.
 
+
 ## Skills
 </br>
 <img src="https://github.com/JayaLeein/JayaLeein/assets/56601790/731d2b7a-2f06-4203-9265-6574d99b9f29" height="50" />&nbsp;&nbsp;&nbsp;
