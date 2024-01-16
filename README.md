@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/JayaLeein/JayaLeein/assets/56601790/cef6f173-f0fd-4eea-a067-4de2bfb433cf" height="50" />
 <!--<img src="https://github.com/JayaLeein/JayaLeein/assets/56601790/df3b8247-b778-454d-90e0-a93fb27aaaf1" height="50" />&nbsp;&nbsp;-->
 <img src="https://github.com/JayaLeein/JayaLeein/assets/56601790/ff56d157-6a49-40e2-9c16-e9ae7d76376a" height="50" />
+<img src="https://github.com/JayaLeein/JayaLeein/assets/56601790/4246421b-0291-4cc5-8a57-cbfe2dec1c7f" height="50" />
 </br>
 </br>
 <img src="https://github.com/JayaLeein/JayaLeein/assets/56601790/df4cae29-eda0-4d31-9520-897d0b693982" height="40" />&nbsp;
