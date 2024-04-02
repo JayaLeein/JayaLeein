@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 ## Skills
 </br>
+<img src="https://github.com/JayaLeein/JayaLeein/assets/56601790/c0accb1c-bdb2-4416-b9b3-117f3694e19e" height="50" />&nbsp;&nbsp;
+<img src="https://github.com/JayaLeein/JayaLeein/assets/56601790/50b99a2e-db7a-4fef-a986-8822f12996ac" height="50" />&nbsp;&nbsp;
 <img src="https://github.com/JayaLeein/JayaLeein/assets/56601790/731d2b7a-2f06-4203-9265-6574d99b9f29" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/JayaLeein/JayaLeein/assets/56601790/3838c6e5-0caf-4677-b4a7-37f2932c10fd" height="50" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/JayaLeein/JayaLeein/assets/56601790/bafa1486-b38e-4fad-b472-23f1deb1028f" height="50" />&nbsp;&nbsp;
